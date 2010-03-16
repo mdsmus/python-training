@@ -1,12 +1,14 @@
-# Objetivos
+# Programando em python
+
+## Objetivos
 
 Introdução rápida a python para quem já conhece alguma linguagem de
 programação. Poder ler e contribuior com o código de
 [xenophilus](http://github.com/kroger/xenophilus).
 
-# Março 17
+## Março 17
 
-## vantagens de python
+### vantagens de python
 
 - curva de aprendizado pequena
 - onipresente
@@ -26,7 +28,7 @@ programação. Poder ler e contribuior com o código de
         lisp =>   (subseq "foo" 0 3)
         python => "foo"[:3]
 
-## desvantagens de python
+### desvantagens de python
 - pode ser lento (mas pode re-escrever em C)
 - ditador benevolente
 - linguagem em fluxo (e.g. 1.5 diff de 3.1)
@@ -37,7 +39,7 @@ programação. Poder ler e contribuior com o código de
         lisp =>   (member item lista)
         python => item in lista
 
-## introdução
+### introdução
 
 - o interpretador
 - programa mínimo
@@ -54,31 +56,22 @@ programação. Poder ler e contribuior com o código de
 - argumentos em funções
 - exemplo1.py
 
-# Mar 31
+## Mar 31
 
-## orientação a objetos
+### orientação a objetos
 
-# Abr 14
+## Abr 14
 
-# Abr 21
+## Abr 21
 
-# Referências
-  - The Python Tutorial
-    http://docs.python.org/tutorial/index.html
-  - The Python Standard Library
-    http://docs.python.org/library/index.html
-  - The Python Language Reference
-    http://docs.python.org/reference/index.html
-  - Style Guide for Python Code
-    http://www.python.org/dev/peps/pep-0008/
-  - Python tutorials
-    http://wiki.python.org/moin/BeginnersGuide/Programmers
-    http://wiki.python.org/moin/BeginnersGuide/NonProgrammers
-  - How to Think Like a Computer Scientist
-    http://openbookproject.net//thinkCSpy/
-  - Dive Into Python
-    http://diveintopython.org/
-  - Python Essential Reference [livro]
-    http://kroger.genos.mus.br/docs/Python.Essential.Reference.4th.pdf
-  - Learning Python [livro]
-    http://kroger.genos.mus.br/docs/Learning_Python_Fourth_Edition.pdf
+## Referências
+  - [The Python Tutorial](http://docs.python.org/tutorial/index.html)
+  - [The Python Standard Library](http://docs.python.org/library/index.html)
+  - [The Python Language Reference](http://docs.python.org/reference/index.html)
+  - [Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
+  - [Python tutorial programadores](http://wiki.python.org/moin/BeginnersGuide/Programmers)
+  - [Python tutorial não-programadores](http://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+  - [How to Think Like a Computer Scientist](http://openbookproject.net//thinkCSpy/)
+  - [Dive Into Python](http://diveintopython.org/)
+  - [Python Essential Reference](http://kroger.genos.mus.br/docs/Python.Essential.Reference.4th.pdf)
+  - [Learning Python](http://kroger.genos.mus.br/docs/Learning_Python_Fourth_Edition.pdf)
