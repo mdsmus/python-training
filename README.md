@@ -28,7 +28,7 @@ programação. Poder ler e contribuior com o código de
         lisp =>   (subseq "foo" 0 3)
         python => "foo"[:3]
 
-### desvantagens de python
+### "desvantagens" de python (segundo kroger ;-)
 - pode ser lento (mas pode re-escrever em C)
 - ditador benevolente
 - linguagem em fluxo (e.g. 1.5 diff de 3.1)
@@ -39,21 +39,22 @@ programação. Poder ler e contribuior com o código de
         lisp =>   (member item lista)
         python => item in lista
 
-### introdução
+### introdução a python
 
 - o interpretador
 - programa mínimo
 - o básico da sintaxe (identação, espaços, pep8, etc)
 - achando coisas na documentação
-- [help()](http://docs.python.org/library/functions.html#help) e [dir()](http://docs.python.org/library/functions.html#dir)
+- [help()](http://docs.python.org/library/functions.html#help) e 
+  [dir()](http://docs.python.org/library/functions.html#dir)
 - criando scripts (shebang)
 - números, strings, listas, dicionários
 - tipos (tipagem forte, compare com perl)
-- funções (básico)
-- if
+- funções I (básico)
+- controle de fluxo: if, while
 - codigo em bibliotecas (import)
 - for, compreensão de listas, map, lambda
-- argumentos em funções
+- funções II (argumentos, funções aninhadas, escopo)
 - exemplo1.py
 
 ## Mar 31
