@@ -3,7 +3,7 @@
 ## Objetivos
 
 Introdução rápida a python para quem já conhece alguma linguagem de
-programação. Poder ler e contribuior com o código de
+programação. Poder ler e contribuir com o código de
 [xenophilus](http://github.com/kroger/xenophilus).
 
 ## Março 17
