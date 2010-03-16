@@ -45,7 +45,7 @@ programação. Poder ler e contribuior com o código de
 - programa mínimo
 - o básico da sintaxe (identação, espaços, pep8, etc)
 - achando coisas na documentação
-- help() e dir()
+- [help()](http://docs.python.org/library/functions.html#help) e [dir()](http://docs.python.org/library/functions.html#dir)
 - criando scripts (shebang)
 - números, strings, listas, dicionários
 - tipos (tipagem forte, compare com perl)
