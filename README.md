@@ -75,3 +75,5 @@ programação. Poder ler e contribuior com o código de
   - [Dive Into Python](http://diveintopython.org/)
   - [Python Essential Reference](http://kroger.genos.mus.br/docs/Python.Essential.Reference.4th.pdf)
   - [Learning Python](http://kroger.genos.mus.br/docs/Learning_Python_Fourth_Edition.pdf)
+  - [ipython](http://ipython.scipy.org/moin/)
+  - [ipython screencasts](http://showmedo.com/videotutorials/series?name=CnluURUTV)
