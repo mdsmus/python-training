@@ -1,0 +1,40 @@
+* Mar 17
+** vantagens python
+   - curva de aprendizado pequena
+   - onipresente
+   - fácil de ler (especialmente 6 meses depois)
+   - multi-paradigma
+   - orientada a objetos
+   - baterias incluídas (mostrar bibliotecas)
+   - portável
+   - flexível
+   - excelente documentação
+   - excelente comunidade
+   - ditador benevolente
+   - coisas padrão como pep8
+   - mais sintaxe que lisp, menos prolixo:
+     lisp =>   (subseq "foo" 0 3)
+     python => "foo"[:3]
+** desvantagens de python
+   - pode ser lento (mas pode re-escrever em C)
+   - ditador benevolente
+   - não tem macros como em lisp (nem loop, format, etc)
+   - não tem slime (mas tem IDEs: eclipse, komodo, etc)
+   - mais sintaxe que lisp (funções em lisp):
+     lisp =>   (member item lista)
+     python => item in lista
+** introdução
+   - o interpretador
+   - achando coisas na documentação
+   - criando scripts (shebang)
+   - programa mínimo
+   - números, strings, listas, dicionários
+   - funções (básico)
+   - if
+   - for, compreensão de listas, map, lambda
+   - argumentos em funções
+   - exemplo1.py
+* Mar 31
+** orientação a objetos
+* Abr 14
+* Abr 21
